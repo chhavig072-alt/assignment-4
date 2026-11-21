@@ -7,8 +7,8 @@ node server.js
 ```
 Open http://localhost:8080 in two or more browser tabs.
 
-## What was added (original code kept intact)
-- `server.js`: original events (`gyankibaat`, `join`, `kuchbhi`, `announcement`) untouched; added static hosting of `public/` and chat/room events.
+## What was added 
+- `server.js`: original events (`gyankibaat`, `join`, `kuchbhi`, `announcement`) ; added static hosting of `public/` and chat/room events.
 - `public/index.html`: full frontend (login, lobby, rooms, members, typing indicator, unread badges, dark mode, responsive).
 - `client.html`: original placeholder client, unchanged.
 
